@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raphael
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js and everything
+- 🌱 I’m currently learning next js and everything
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me at jraphael441@gmail.com
 
