@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Raphael
+
+- I'm a full stack developer (MERN stack)
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning next js and everything
+- I’m learning everything that would help improve my skills
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me at jraphael441@gmail.com
 
